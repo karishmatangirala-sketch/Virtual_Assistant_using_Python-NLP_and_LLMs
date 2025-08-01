@@ -130,7 +130,7 @@ Please specify your license (e.g. MIT, GPL) or note "All Rights Reserved".
 Questions or feedback?
 
 * GitHub: [VASU‑GATTE](https://github.com/VASU-GATTE)
-* Email / LinkedIn: Add your profile link or email here
+* Email / LinkedIn: vasugatte9@gmail.com
 
 ---
 
