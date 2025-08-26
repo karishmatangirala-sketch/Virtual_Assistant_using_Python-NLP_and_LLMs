@@ -9,15 +9,7 @@ Built as a college/final-year capstone, the assistant can understand spoken or t
 
 ## 🎯 Key Features
 - **Natural Language Conversation**: Supports voice/text input using speech recognition and text-to-speech.
-- **LLM Integration**: Utilizes models like GPT‑x, LLaMA, or OpenAI API for response generation.
-- **Modular Task Handling**: Performs tasks such as:
-  - Web searches (e.g. Wikipedia)
-  - Weather updates (via OpenWeather API)
-  - Reminders and alarms
-  - Application launching or system commands
-  - Customizable workflows
-- **History Logging**: Chat logs saved to file (e.g., `.json` or `.jsonl`).
-
+- **LLM Integration**: Utilizes models like GPT‑4, LLaMA, or OpenAI API for response generation.
 ---
 
 ## 🛠️ Tech Stack
@@ -27,8 +19,7 @@ Built as a college/final-year capstone, the assistant can understand spoken or t
 | Speech-to-Text      | `SpeechRecognition`                          |
 | Text-to-Speech      | `pyttsx3` or `gTTS`                           |
 | NLP & Intent Logic  | `NLTK`, `spaCy` or custom classifier          |
-| LLM Backend         | OpenAI GPT / local LLaMA or Hugging Face model |
-| Web/API Integration | `wikipedia`, `requests` (e.g. weather/news APIs) |
+| LLM Backend         | Hugging Face model                             |
 | Others              | `datetime`, `webbrowser`, `os`, etc.          |
 
 ---
@@ -69,13 +60,13 @@ Built as a college/final-year capstone, the assistant can understand spoken or t
 To launch the assistant:
 
 ```bash
-python main.py
+python mod.py
 ```
 
 or
 
 ```bash
-python assistant.py
+python mod.py
 ```
 
 Then:
