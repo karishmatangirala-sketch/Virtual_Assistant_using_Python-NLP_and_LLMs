@@ -120,8 +120,8 @@ Please specify your license (e.g. MIT, GPL) or note "All Rights Reserved".
 
 Questions or feedback?
 
-* GitHub: [VASU‑GATTE](https://github.com/VASU-GATTE)
-* Email / LinkedIn: vasugatte9@gmail.com
+* GitHub: [Karishma](https://github.com/karishmatangirala-sketch)
+* Email :karishmatangirala@gmail.com
 
 ---
 
